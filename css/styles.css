@@ -378,11 +378,6 @@ h6, .h6 {
   font-size: 1rem;
 }
 
-.lead {
-  font-size: 1.25rem;
-  font-weight: 300;
-}
-
 .display-1 {
   font-size: 6rem;
   font-weight: 300;
@@ -7038,6 +7033,9 @@ h3 {
   width: 12rem;
   border-radius: 50%;
   z-index: 1;
+}
+.company-img {
+  max-height: 2.5rem;
 }
 
 @media (min-width: 992px) {
